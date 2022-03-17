@@ -1,11 +1,11 @@
 {
   "products": [
     {
-      "id": 1,
-      "productName": "Café",
+      "productName": "Cafe",
       "price": "50",
       "urlImg": "http://cualquiercosa.com",
-      "category": "bebida-caliente"
+      "category": "bebida-caliente",
+      "id": 1
     },
     {
       "id": 2,
@@ -15,7 +15,7 @@
       "category": "bebida-fria"
     },
     {
-      "productName": "palta y huevo",
+      "productName": "palta con huevo",
       "price": "120",
       "urlImg": "https://images.pexels.com/photos/704569/pexels-photo-704569.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "category": "sandwitch",
