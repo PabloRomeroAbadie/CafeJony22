@@ -1,30 +1,30 @@
 {
   "products": [
     {
-      "productName": "Cafe ",
-      "price": "50",
-      "urlImg": "http://cualquiercosa.com",
+      "productName": "Cafe",
+      "price": "30",
+      "urlImg": "https://images.pexels.com/photos/7125624/pexels-photo-7125624.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "category": "bebida-caliente",
       "id": 1
     },
     {
-      "id": 2,
-      "productName": "Licuado",
-      "price": "40",
-      "urlImg": "http://cualquiercosa.com",
-      "category": "bebida-fria"
+      "productName": "Licuado de frutilla",
+      "price": "70",
+      "urlImg": "https://media.istockphoto.com/photos/sweet-homemade-healthy-berry-smoothie-picture-id839497302?k=20&m=839497302&s=612x612&w=0&h=Yaamgk7fBqFGvmgWEp3Yxwf7-kR_BlSruRwB8Zq94hM=",
+      "category": "bebida-fria",
+      "id": 2
     },
     {
-      "productName": "palta con huevo",
-      "price": "120",
+      "productName": "Sandwich de palta con huevo",
+      "price": "80",
       "urlImg": "https://images.pexels.com/photos/704569/pexels-photo-704569.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "category": "sandwitch",
       "id": 3
     },
     {
-      "productName": "muffie",
-      "price": "50",
-      "urlImg": "https://images.pexels.com/photos/704569/pexels-photo-704569.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "productName": "Muffin",
+      "price": "20",
+      "urlImg": "https://images.pexels.com/photos/1657343/pexels-photo-1657343.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "category": "dulce",
       "id": 4
     }
