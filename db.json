@@ -1,7 +1,7 @@
 {
   "products": [
     {
-      "productName": "Cafe",
+      "productName": "Cafe ",
       "price": "50",
       "urlImg": "http://cualquiercosa.com",
       "category": "bebida-caliente",
@@ -27,20 +27,6 @@
       "urlImg": "https://images.pexels.com/photos/704569/pexels-photo-704569.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "category": "dulce",
       "id": 4
-    },
-    {
-      "productName": "capuccino",
-      "price": "90",
-      "urlImg": "https://images.pexels.com/photos/4921026/pexels-photo-4921026.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-      "category": "bebida-caliente",
-      "id": 5
-    },
-    {
-      "productName": "atun ",
-      "price": "60",
-      "urlImg": "https://images.pexels.com/photos/4491395/pexels-photo-4491395.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-      "category": "sandwitch",
-      "id": 6
     }
   ]
 }
