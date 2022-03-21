@@ -32,7 +32,7 @@ const ProductTable = ({ products, URL, getApi }) => {
           </thead>
           <tbody>
             {products.map((product) => (
-              <Product key={product.id} product={product} URL={URL} getApi={getApi} />
+              <Product key={product._id} product={product} URL={URL} getApi={getApi} />
             ))}
           </tbody>
         </Table>
